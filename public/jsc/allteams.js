@@ -239,7 +239,8 @@ exports.OldDevelopers = function oldDevelopers(name) {
         name == "Dmytro Petlia" ||
         name == "Siarhei Nikitsin" ||
         name == "Valentine Zhuck" ||
-        name == "Katsiaryna Zeliankova" ||
+        name == "Katsiaryna Zeliankova
+        name == "Andrei Lysenka" ||
         name == undefined) {
         return true;
     }
